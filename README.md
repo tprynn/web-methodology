@@ -1,4 +1,4 @@
-Jump straight to the [methodology, hosted in this repo's wiki](https://github.com/tprynn/web-methodology/wiki).
+[Jump straight to the methodology, hosted in this repo's wiki](https://github.com/tprynn/web-methodology/wiki).
 
 # About the methodology
 
