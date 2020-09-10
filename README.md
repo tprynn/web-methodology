@@ -2,7 +2,7 @@
 
 # About the methodology
 
-A methodology document aims to enumerate all the possible areas which need to be reviewed during a security assessment. As a tool, security testers can learn from the document and use it to shape their testing process. It can also be used by developers to understand what types of vulnerabilities may exist in their applications and the best practices they should implement to reduce the risk of attacks.
+This methodology presents an opinionated guide on how to conduct a web application security assessment. The primary focus is on clearly enumerating all the main areas that a tester should cover during a security review. As a tool, security testers can learn from the document and use it to shape their testing process. It can also be used by developers to understand what types of vulnerabilities may exist in their applications and the best practices they should implement to reduce the risk of attacks.
 
 # Goals of the methodology
 
@@ -12,6 +12,6 @@ The goal of this methodology is to be as effective as possible in communicating 
 
 **Be Succinct**: The document should be as succinct as possible in explaining each category or issue. Get straight to the heart of the matter and provide high-quality references when needed for more information. Avoid bloating the document with information on any single issue, when one issue is only a small portion of the entire document.
 
-**Be Opinionated**: Don't shy away from clearly stating best practices. Even more importantly, do not attempt to cover every possible security issue - especially when an issue has minimal or no impact in most situations. If an issue has a range of acceptable recommendations, make a secure, widely-applicable suggestion and rely on the reader to combine this with their specific context.
+**Be Opinionated**: Don't shy away from clearly stating best practices. Even more importantly, do not attempt to cover every possible security issue - especially when an issue has minimal or no impact in most situations. If an issue has a range of acceptable recommendations, make a secure, widely-applicable suggestion and rely on the reader to adjust the recommendation for their specific context.
 
 Ultimately, no methodology is a substitute for the judgment of an experienced tester who can take into account the context of their specific application. A home-grown embedded HTTP server written in C will have very different vulnerabilities than a Kubernetes microservice using the latest web framework with a React frontend. This document defines a baseline which can be used by anyone interested in improving the security of web applications, and serves as a standard which testers can hold themselves to in order to deliver high-quality results.
