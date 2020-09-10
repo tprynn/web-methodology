@@ -3,5 +3,5 @@ Generic License. To view a copy of this license, visit http://creativecommons.or
 or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
 Commercial use is welcome if you are using this repository for reference or
-as part of security training but not if rehosting or adapting the material
+for security training (without modification) but not if rehosting or adapting the material
 for internal use or sale.
