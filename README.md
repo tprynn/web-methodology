@@ -1,5 +1,7 @@
 [Jump straight to the methodology, hosted in this repo's wiki](https://github.com/tprynn/web-methodology/wiki).
 
+Alternatively, check out the [Google Sheets template for test tracking](https://docs.google.com/spreadsheets/d/1cvBHKoyowHbyrS0sKpjbkrqrSCW0OMk6ld-dr_Id-y0/edit).
+
 # About the methodology
 
 This methodology presents an opinionated guide on how to conduct a web application security assessment. The primary focus is on clearly enumerating all the main areas that a tester should cover during a security review. As a tool, security testers can learn from the document and use it to shape their testing process. It can also be used by developers to understand what types of vulnerabilities may exist in their applications and the best practices they should implement to reduce the risk of attacks.
