@@ -6,7 +6,7 @@ Alternatively, check out the [Google Sheets template for test tracking](https://
 
 This methodology presents an opinionated guide on how to conduct a web application security assessment. The primary focus is on clearly enumerating all the main areas that a tester should cover during a security review. As a tool, security testers can learn from the document and use it to shape their testing process. It can also be used by developers to understand what types of vulnerabilities may exist in their applications and the best practices they should implement to reduce the risk of attacks.
 
-If you're a beginner, this methodology may be considered more of a reference document rather than a tutorial or introduction. I instead recommend [PortSwigger's Web Security Academy](https://portswigger.net/web-security) and [Eric Rescorla's blog series *Understanding The Web Security Model*].
+If you're a beginner, this methodology may be considered more of a reference document rather than a tutorial or introduction. I instead recommend [PortSwigger's Web Security Academy](https://portswigger.net/web-security) and [Eric Rescorla's blog series *Understanding The Web Security Model*](https://educatedguesswork.org/posts/web-security-model-intro1/).
 
 # Goals of the methodology
 
